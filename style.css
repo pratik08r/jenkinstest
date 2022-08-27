@@ -8,5 +8,5 @@ body {
 }
 
 .d-display {
-  display: inline-block;
+  display: inline-block !important;
 }
