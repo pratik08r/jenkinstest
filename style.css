@@ -10,3 +10,7 @@ body {
 .d-display {
   display: inline-block !important;
 }
+
+.main-menu{
+  display: inline-block;
+}
